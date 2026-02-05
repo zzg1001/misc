@@ -1,0 +1,88 @@
+http://itpm.sh-ctmc.com/redmine/
+
+
+https://docs.qq.com/sheet/DT2lEUUpJ Vmpqd0pU?tab=BB08J2
+平台测试的计划
+
+http://172.16.56.13/gaea#/login?redirect=%2F
+
+测试平台网址	 http://172.16.56.13/gaea#/login?redirect=%2F	租户	       数据开发引擎	  密码
+宜氪租户管理员	 yk_admin	                                    yk_tenant	    Sqlserver	 
+卡奥斯租户管理员 kas_admin	                                    kas_tenant	    hive	     
+帆软租户管理员	 fr_admin	                                    fr_tenant  	    hive	     
+烟机租户管理员	 shyj_admin	                                    shyj_tenant	    sqlserver    hive	shyjadmin@1234
+
+vpn账号
+https://116.228.159.166:4433
+vpn账号：yk-zzg
+密码:ledi12345pro!@
+
+http://itpm.sh-ctmc.com/redmine/login?back_url=http%3A%2F%2Fitpm.sh-ctmc.com%2Fredmine%2F
+yk-zzg
+CTMC@ykzzg
+
+
+迁移后的报表地址：http://172.16.31.187:37799/webroot/decision
+帆软账号
+# repeort 10: 172.16.31.184:8080
+repeort 11:172.16.31.187:37799
+webroot
+decision
+用户名: yike
+密码:W6-dzt
+
+
+数据库：ODS_SRM
+数据库连接：（SQlserver）
+IP：172.16.31.42:1433
+用户名：DW_YK
+密码：DW_YK
+
+采购：
+ip:10.255.14.104
+账号：winchill
+密码：Winchill-2023!
+数据库：winchill-qas（测试库）、winchill（生产库）（若不满足要求，该账号具有管理员权限，按需创建即可）
+
+
+ 宜氪租户管理员
+yk_zhangzuogong/ykZhangzuogong@123
+
+
+堡垒机账号：https://172.16.37.60/index.php/
+host:172.16.37.60
+fr-lgc/Abcde@12345
+Abcdef@123456
+
+烟机工时：
+yk-zzg
+CTMC@ykzzg
+
+
+本地烟机地址sqlserver
+yanji_bl
+Password.1
+yanji_备料
+
+
+自能bi
+http://172.16.23.251:1080/webroot/decision
+admin
+Abcde@12345
+
+
+虚拟机账号：https://172.16.101.2
+dw_yk
+Yk@20260101
+
+30404  基于拉动式生产的计划管理工具的开发
+29873  供应链合规管控与带料采购新模式信息化的开发
+29807  外购件
+32726  外购件
+
+
+http://172.16.31.120:8080/MSS
+Admin
+Cas@2024
+
+
